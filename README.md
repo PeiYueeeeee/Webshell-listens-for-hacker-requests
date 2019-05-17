@@ -1,2 +1,2 @@
 # Webshell-listens-for-hacker-requests
-This tool is written by the Python3 language. It is based on the IP address of the hacker request when the hacker accesses the Webshell. The email or WeChat method is used to notify the party (security engineer or possibly law enforcement department) for security engineer. Or the law enforcement department can respond in the first time, which I call "please enter the country"
+This tool is written in Python3,When a hacker accesses a reserved webshell backdoor,Will record the IP address and then notify by Email or WeChat for website security engineer or Law enforcement carry out the next step of source analysis.
